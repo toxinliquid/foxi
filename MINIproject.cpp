@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 int main()
+	// by haitham 15356
 {
 	int n;
 srand(time(NULL));
